@@ -8,3 +8,6 @@ FAIR services. This poses a risk for delivering the FAIR foundation of a federat
 ready for federated analytics, AI, and machine learning. <br> FAIR as a service is making deployment by institutional 
 DCCs of FAIR services cost-effective, scalable, and sustainable by delivering ‘FAIR as a Service’ (FaaS).
 
+## Architecture
+This repo consists of an Archimate architecture to visualize the concept of FAIR as a Service. This can be subject to 
+changes while connecting new components.
